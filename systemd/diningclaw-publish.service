@@ -1,0 +1,14 @@
+[Unit]
+Description=UM DiningClaw daily publish pipeline
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/zhijie/Tools/UM-DiningClaw
+Environment=TZ=America/Detroit
+Environment=CONDA_ENV_NAME=diningclaw
+ExecStart=/home/zhijie/Tools/UM-DiningClaw/publish.sh
+
+[Install]
+WantedBy=default.target

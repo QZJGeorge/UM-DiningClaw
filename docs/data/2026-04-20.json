@@ -1,0 +1,311 @@
+{
+  "date": "2026-04-20",
+  "recommendation": {
+    "recommendation": "Head straight to **South Quad** tonight \u2014 they're serving **Grilled Salmon**, which is hands-down the best protein on any menu today. Salmon is a premium pick, and grilled means you're getting something that actually tastes like real food, not just cafeteria fare. Pair it with the **Broccoli Alfredo Pizza** for a surprisingly solid combo, or grab the **Cauliflower Chickpea Tacos** on the side. Bursley is worth a shoutout too for their **Saut\u00e9ed Shrimp** \u2014 fresh, flavorful, and a fun alternative if you're closer to north campus.",
+    "halls": [
+      {
+        "name": "South Quad",
+        "highlights": [
+          "Grilled Salmon",
+          "Broccoli Alfredo Pizza"
+        ],
+        "score": "high",
+        "reasoning": "Grilled Salmon is the clear star of tonight's dining scene \u2014 it's the most premium protein across all the halls today. This is your move if you want a quality meat-forward dinner."
+      },
+      {
+        "name": "Bursley",
+        "highlights": [
+          "Sauteed Shrimp",
+          "Roasted Garlic Pizza"
+        ],
+        "score": "high",
+        "reasoning": "Saut\u00e9ed Shrimp is a legit highlight \u2014 flavorful, lighter, and a fun alternative to the usual rotation. North campus folks, this is your best bet tonight."
+      },
+      {
+        "name": "East Quad",
+        "highlights": [
+          "Popcorn Shrimp",
+          "Salted Caramel Bars"
+        ],
+        "score": "medium",
+        "reasoning": "Popcorn Shrimp is a fun, crispy option if you're in the area \u2014 not as premium as grilled salmon or saut\u00e9ed shrimp, but still a solid seafood pick worth grabbing."
+      },
+      {
+        "name": "Mosher-Jordan",
+        "highlights": [
+          "Battered Cod Sandwich",
+          "Curried Lentils"
+        ],
+        "score": "medium",
+        "reasoning": "The Battered Cod Sandwich from Kings Hawaiian Grill is a sleeper hit tonight \u2014 crispy fish on a soft bun sounds like a really satisfying dinner. Don't sleep on this one."
+      },
+      {
+        "name": "Markley",
+        "highlights": [
+          "Spring Rolls",
+          "Raspberry Swirl Cheesecake"
+        ],
+        "score": "low",
+        "reasoning": "Not their strongest night for meat options \u2014 the Spring Rolls are a fun veggie-forward bite, and that Raspberry Swirl Cheesecake is calling your name for dessert."
+      },
+      {
+        "name": "North Quad",
+        "highlights": [
+          "Orange Tofu Stir Fry",
+          "Raspberry Swirl Cheesecake"
+        ],
+        "score": "low",
+        "reasoning": "Tonight's menu leans vegetarian \u2014 the Orange Tofu Stir Fry is a flavorful, creative option if you're open to plant-based. Not the destination for meat tonight though."
+      },
+      {
+        "name": "Twigs at Oxford",
+        "highlights": [
+          "Cauliflower Chickpea Tacos"
+        ],
+        "score": "low",
+        "reasoning": "Not the spot for quality meat tonight \u2014 the Cauliflower Chickpea Tacos are a tasty plant-based bright spot, but this one's a quieter night for protein lovers."
+      },
+      {
+        "name": "Wolverine Village",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today \u2014 check back another time!"
+      }
+    ],
+    "summary": "\ud83d\udc1f South Quad's Grilled Salmon wins the night \u2014 it's the premium protein pick across all of campus today!"
+  },
+  "menus": [
+    {
+      "name": "Bursley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/bursley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Hearty Vegetable Chowder"
+          ],
+          "Signature Maize": [
+            "Sauteed Shrimp"
+          ],
+          "Signature Blue": [
+            "Cajun Tofu"
+          ],
+          "24 Carrots": [
+            "Cauliflower Chickpea Tacos"
+          ],
+          "Halal": [
+            "Herb Grilled Halal Chicken Breast"
+          ],
+          "Pizziti": [
+            "Roasted Garlic Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Herb Oil"
+          ],
+          "Breads and Rolls": [
+            "Assorted Rolls"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Vegan Maple Oatmeal Cookie Sandwich"
+          ]
+        }
+      }
+    },
+    {
+      "name": "East Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/east-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Ruby Lentil Soup"
+          ],
+          "Signature Maize": [
+            "Carnitas-Style Chicken"
+          ],
+          "Signature Blue": [
+            "Baked Chicken Drumsticks"
+          ],
+          "24 Carrots": [
+            "Tortilla Chips"
+          ],
+          "Halal": [
+            "Herb Grilled Halal Chicken Breast"
+          ],
+          "Pizziti": [
+            "Roasted Vegetable Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Popcorn Shrimp"
+          ],
+          "MBakery": [
+            "Salted Caramel Bars"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Markley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/markley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Classic Cream of Mushroom Soup"
+          ],
+          "Signature Maize": [
+            "Chicken Vietnamese Chili Stir Fry"
+          ],
+          "24 Carrots": [
+            "Spring Rolls"
+          ],
+          "Halal": [
+            "Italian Chicken"
+          ],
+          "MBakery": [
+            "Raspberry Swirl Cheesecake"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Mosher-Jordan",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/mosher-jordan/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Fall Harvest Soup"
+          ],
+          "Signature Maize": [
+            "Herb Grilled Halal Chicken Breast"
+          ],
+          "World Palate Maize": [
+            "Taco Chicken"
+          ],
+          "24 Carrots": [
+            "Curried Lentils"
+          ],
+          "Halal": [
+            "Berbere Chicken"
+          ],
+          "Pizziti": [
+            "Cheese Flatbread Pizza"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "Kings Hawaiian Grill": [
+            "Battered Cod Sandwich"
+          ],
+          "MBakery": [
+            "Oatmeal Raisin Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "North Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/north-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Chicken Noodle Soup"
+          ],
+          "Signature Blue": [
+            "Fried Pita Chips"
+          ],
+          "24 Carrots": [
+            "Orange Tofu Stir Fry"
+          ],
+          "Halal": [
+            "Herb Grilled Halal Chicken Breast"
+          ],
+          "Vita": [
+            "Cavatappi with Marinara Sauce"
+          ],
+          "Pizziti": [
+            "Margherita Flatbread Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Tempura Chicken"
+          ],
+          "MBakery": [
+            "Raspberry Swirl Cheesecake"
+          ]
+        }
+      }
+    },
+    {
+      "name": "South Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Parmesan Potato Soup"
+          ],
+          "Signature Maize": [
+            "Grilled Salmon"
+          ],
+          "24 Carrots": [
+            "Cauliflower Chickpea Tacos"
+          ],
+          "Halal": [
+            "Herb Grilled Halal Chicken Breast"
+          ],
+          "Vita": [
+            "Gemelli Pasta"
+          ],
+          "Sabroso": [
+            "No Service at this Time"
+          ],
+          "Pizziti": [
+            "Broccoli Alfredo Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Chicken Breast Sandwich on White Bun"
+          ],
+          "Two Oceans": [
+            "Chicken Vietnamese Chili Stir Fry"
+          ],
+          "Kosher": [
+            "Tomato Rice Soup"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Chocolate Chunk Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Twigs at Oxford",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/twigs-at-oxford/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Chicken Noodle Soup"
+          ],
+          "Signature Maize": [
+            "Cauliflower Chickpea Tacos"
+          ],
+          "Halal": [
+            "Herb Grilled Halal Chicken Breast"
+          ],
+          "Wild Fire Maize": [
+            "French Fries"
+          ],
+          "MBakery": [
+            "Vegan Maple Oatmeal Cookie Sandwich"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Wolverine Village",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/wolverine-village-dining-hall/",
+      "meals": {}
+    }
+  ]
+}

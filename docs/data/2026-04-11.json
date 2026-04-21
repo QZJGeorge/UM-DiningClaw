@@ -1,0 +1,261 @@
+{
+  "date": "2026-04-11",
+  "recommendation": {
+    "recommendation": "Head to Mosher-Jordan tonight! They're serving up fresh shrimp teriyaki stir fry that sounds amazing \u2014 tender shrimp with that sweet-savory teriyaki glaze. Plus they've got hot sliced roast beef that'll be perfectly juicy. The bulgogi hoagie at Bursley is also calling my name with that Korean-Hawaiian fusion vibe!",
+    "halls": [
+      {
+        "name": "Mosher-Jordan",
+        "highlights": [
+          "Shrimp Teriyaki Stir Fry",
+          "Hot Halal Sliced Roast Beef"
+        ],
+        "score": "high",
+        "reasoning": "Fresh shrimp with teriyaki glaze plus tender roast beef \u2014 this is where the premium proteins are tonight!"
+      },
+      {
+        "name": "Bursley",
+        "highlights": [
+          "King's Hawaiian Bulgogi Hoagie",
+          "Montreal Top Round Beef"
+        ],
+        "score": "high",
+        "reasoning": "That bulgogi hoagie sounds incredible with Korean flavors on Hawaiian bread, plus Montreal-style beef for something hearty."
+      },
+      {
+        "name": "East Quad",
+        "highlights": [
+          "King's Hawaiian Bulgogi Hoagie",
+          "Baked Boneless Ham"
+        ],
+        "score": "medium",
+        "reasoning": "The bulgogi hoagie is here too, and that baked ham will be tender and flavorful."
+      },
+      {
+        "name": "South Quad",
+        "highlights": [
+          "King's Hawaiian Bulgogi Hoagie",
+          "Honey Baked Spiral Ham"
+        ],
+        "score": "medium",
+        "reasoning": "Bulgogi hoagie plus honey-glazed spiral ham for something sweet and savory."
+      },
+      {
+        "name": "Twigs at Oxford",
+        "highlights": [],
+        "score": "low",
+        "reasoning": "Vietnamese chili stir fry sounds interesting but it's pork-focused tonight."
+      },
+      {
+        "name": "Markley",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today."
+      },
+      {
+        "name": "North Quad",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today."
+      },
+      {
+        "name": "Wolverine Village",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today."
+      }
+    ],
+    "summary": "Mosher-Jordan wins with fresh shrimp teriyaki and tender roast beef!"
+  },
+  "menus": [
+    {
+      "name": "Bursley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/bursley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "3 Sisters Stew"
+          ],
+          "Signature Maize": [
+            "Baked Halal Chicken"
+          ],
+          "24 Carrots": [
+            "Kale & Potato Enchilada Bake"
+          ],
+          "Halal": [
+            "Montreal Top Round Beef"
+          ],
+          "Pizziti": [
+            "Garlic Cheese Bread"
+          ],
+          "Wild Fire Maize": [
+            "King's Hawaiian Bulgogi Hoagie"
+          ],
+          "Breads and Rolls": [
+            "Assorted Rolls"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Raspberry Cheesecake Brownie Bar"
+          ]
+        }
+      }
+    },
+    {
+      "name": "East Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/east-quad/",
+      "meals": {
+        "Dinner": {
+          "Baked Goods": [
+            "Chocolate Chunk Cookies"
+          ],
+          "Soup": [
+            "Moroccan Chorba Soup"
+          ],
+          "Signature Maize": [
+            "Baked Boneless Ham"
+          ],
+          "24 Carrots": [
+            "Kale & Potato Enchilada Bake"
+          ],
+          "Halal": [
+            "Baked Halal Chicken"
+          ],
+          "Vita": [
+            "Rotini Pasta"
+          ],
+          "Pizziti": [
+            "Cheese Bread"
+          ],
+          "Wild Fire Maize": [
+            "King's Hawaiian Bulgogi Hoagie"
+          ],
+          "Dessert": [
+            "Chocolate Chunk Cookies"
+          ],
+          "MBakery": [
+            "Raspberry Cheesecake Brownie Bar"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Markley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/markley/",
+      "meals": {}
+    },
+    {
+      "name": "Mosher-Jordan",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/mosher-jordan/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Vegetable Barley Soup"
+          ],
+          "Signature Maize": [
+            "Hot Halal Sliced Roast Beef"
+          ],
+          "World Palate Maize": [
+            "Shrimp Teriyaki Stir Fry"
+          ],
+          "24 Carrots": [
+            "Kale & Potato Enchilada Bake"
+          ],
+          "Halal": [
+            "Baked Halal Chicken"
+          ],
+          "Pizziti": [
+            "Pepperoni Flatbread Pizza"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "Kings Hawaiian Grill": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "Raspberry Bars"
+          ]
+        }
+      }
+    },
+    {
+      "name": "North Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/north-quad/",
+      "meals": {}
+    },
+    {
+      "name": "South Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Italian Wedding Soup"
+          ],
+          "Signature Maize": [
+            "Honey Baked Spiral Ham"
+          ],
+          "24 Carrots": [
+            "Kale & Potato Enchilada Bake"
+          ],
+          "Halal": [
+            "Cornflake Chicken"
+          ],
+          "Vita": [
+            "Gemelli Pasta"
+          ],
+          "Sabroso": [
+            "No Service at this Time"
+          ],
+          "Pizziti": [
+            "Pepperoni Pizza"
+          ],
+          "Wild Fire Maize": [
+            "King's Hawaiian Bulgogi Hoagie"
+          ],
+          "Two Oceans": [
+            "No Service at this Time"
+          ],
+          "Kosher": [
+            "No Service at this Time"
+          ],
+          "Breads and Rolls": [
+            "Cracked Wheat Sandwich Loaf"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Chocolate Chunk Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Twigs at Oxford",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/twigs-at-oxford/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Navy Bean Soup"
+          ],
+          "Signature Maize": [
+            "Pork Vietnamese Chili Stir fry"
+          ],
+          "Halal": [
+            "Baked Halal Chicken"
+          ],
+          "MBakery": [
+            "Raspberry Cheesecake Brownie Bar"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Wolverine Village",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/wolverine-village-dining-hall/",
+      "meals": {}
+    }
+  ]
+}

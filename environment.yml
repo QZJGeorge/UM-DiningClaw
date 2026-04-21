@@ -1,0 +1,13 @@
+name: diningclaw
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - requests
+      - beautifulsoup4
+      - lxml
+      - anthropic
+      - jinja2

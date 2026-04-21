@@ -1,0 +1,250 @@
+{
+  "date": "2026-04-12",
+  "recommendation": {
+    "recommendation": "Tonight's a decent night for beef lovers! The beef enchiladas are showing up at multiple halls and sound like a solid pick - think seasoned ground beef wrapped in soft tortillas with melted cheese and sauce. The fajita-spiced beef at South Quad could be especially flavorful with those bold spices. If you're craving something more casual, those beef and mushroom blended burgers are everywhere and sound pretty tasty.",
+    "halls": [
+      {
+        "name": "South Quad",
+        "highlights": [
+          "Halal Fajita-Spiced Beef",
+          "Beef and Mushroom Blended Burger"
+        ],
+        "score": "medium",
+        "reasoning": "The fajita-spiced beef sounds like it has the most flavor punch tonight, plus you've got burger backup"
+      },
+      {
+        "name": "Bursley",
+        "highlights": [
+          "Beef Enchiladas",
+          "Beef and Mushroom Blended Burger"
+        ],
+        "score": "medium",
+        "reasoning": "Beef enchiladas are a classic comfort food choice, and the blended burger adds a casual option"
+      },
+      {
+        "name": "East Quad",
+        "highlights": [
+          "Beef Enchiladas",
+          "Beef and Mushroom Blended Burger"
+        ],
+        "score": "medium",
+        "reasoning": "Same solid beef enchiladas as Bursley with the burger alternative"
+      },
+      {
+        "name": "Mosher-Jordan",
+        "highlights": [
+          "Beef and Mushroom Blended Burger"
+        ],
+        "score": "low",
+        "reasoning": "Just the burger for beef tonight, but it could hit the spot"
+      },
+      {
+        "name": "Twigs at Oxford",
+        "highlights": [
+          "Cheesy Meatball Slider"
+        ],
+        "score": "low",
+        "reasoning": "The meatball slider sounds fun but pretty basic compared to other options"
+      },
+      {
+        "name": "Markley",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today"
+      },
+      {
+        "name": "North Quad",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today"
+      },
+      {
+        "name": "Wolverine Village",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today"
+      }
+    ],
+    "summary": "South Quad's fajita-spiced beef brings the heat tonight!"
+  },
+  "menus": [
+    {
+      "name": "Bursley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/bursley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Roasted Tomato Soup with Fresh Basil"
+          ],
+          "Signature Maize": [
+            "Beef Enchiladas"
+          ],
+          "24 Carrots": [
+            "Tofu Hunan with Noodles"
+          ],
+          "Halal": [
+            "Herb Baked Chicken"
+          ],
+          "Pizziti": [
+            "Garlic Cheese Bread"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Breads and Rolls": [
+            "Assorted Rolls"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Dutch Apple Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "East Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/east-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Roasted Tomato Soup with Fresh Basil"
+          ],
+          "Signature Maize": [
+            "Beef Enchiladas"
+          ],
+          "24 Carrots": [
+            "Cauliflower, Lentil, and Coconut Curry"
+          ],
+          "Halal": [
+            "Halal Mojito Chicken"
+          ],
+          "Pizziti": [
+            "Cheese Bread"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "White Chocolate Macadamia Nut Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Markley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/markley/",
+      "meals": {}
+    },
+    {
+      "name": "Mosher-Jordan",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/mosher-jordan/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Vegetable Rice Soup"
+          ],
+          "Signature Maize": [
+            "Cobb Salad"
+          ],
+          "World Palate Maize": [
+            "Pork Hunan with Noodles"
+          ],
+          "24 Carrots": [
+            "Cauliflower, Lentil, and Coconut Curry"
+          ],
+          "Halal": [
+            "Mojito Chicken Thigh"
+          ],
+          "Pizziti": [
+            "Pepperoni Flatbread Pizza"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "Kings Hawaiian Grill": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "Dutch Apple Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "North Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/north-quad/",
+      "meals": {}
+    },
+    {
+      "name": "South Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Roasted Tomato Soup with Fresh Basil"
+          ],
+          "Signature Maize": [
+            "Halal Fajita-Spiced Beef"
+          ],
+          "24 Carrots": [
+            "Cauliflower, Lentil, and Coconut Curry"
+          ],
+          "Halal": [
+            "Herb Baked Chicken"
+          ],
+          "Vita": [
+            "Gemelli Pasta"
+          ],
+          "Sabroso": [
+            "No Service at this Time"
+          ],
+          "Pizziti": [
+            "Pepperoni Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Two Oceans": [
+            "No Service at this Time"
+          ],
+          "Kosher": [
+            "Authentic Minestrone"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Chocolate Chunk Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Twigs at Oxford",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/twigs-at-oxford/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Roasted Tomato Soup with Fresh Basil"
+          ],
+          "Signature Maize": [
+            "Cauliflower, Lentil, and Coconut Curry"
+          ],
+          "Halal": [
+            "Cheesy Meatball Slider"
+          ],
+          "MBakery": [
+            "Dutch Apple Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Wolverine Village",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/wolverine-village-dining-hall/",
+      "meals": {}
+    }
+  ]
+}

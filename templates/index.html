@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UM DiningClaw</title>
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --maize: #ffcb05;
+            --blue: #00274c;
+            --blue-light: #0a3a6b;
+            --bg: #f6f3ee;
+            --card: #ffffff;
+            --text: #2c2c2c;
+            --muted: #7a7a7a;
+            --border: #e8e4dd;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+        }
+
+        /* --- Header banner --- */
+        .hero {
+            background: var(--blue);
+            background-image:
+                radial-gradient(ellipse at 20% 50%, rgba(255,203,5,0.12) 0%, transparent 60%),
+                radial-gradient(ellipse at 80% 80%, rgba(255,203,5,0.08) 0%, transparent 50%);
+            padding: 3rem 1.5rem 4rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        .hero::after {
+            content: '';
+            position: absolute;
+            bottom: -1px;
+            left: 0; right: 0;
+            height: 40px;
+            background: var(--bg);
+            border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+        }
+        .hero h1 {
+            font-family: 'DM Serif Display', Georgia, serif;
+            font-size: 2.4rem;
+            color: var(--maize);
+            letter-spacing: 0.02em;
+            margin-bottom: 0;
+        }
+        .hero .subtitle {
+            color: rgba(255,255,255,0.5);
+            font-size: 0.85rem;
+            font-weight: 500;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+        }
+        /* --- Main content --- */
+        .container {
+            max-width: 680px;
+            margin: 0 auto;
+            padding: 1.5rem 1.25rem 3rem;
+        }
+
+        .tagline {
+            text-align: center;
+            color: var(--muted);
+            font-size: 0.95rem;
+            line-height: 1.5;
+            margin-bottom: 1.75rem;
+        }
+
+        /* --- Summary card --- */
+        .summary-card {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+        }
+        .summary-card .label {
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--muted);
+            margin-bottom: 0.5rem;
+        }
+        .summary-card .tldr {
+            font-family: 'DM Serif Display', Georgia, serif;
+            font-size: 1.25rem;
+            line-height: 1.4;
+            color: var(--blue);
+        }
+        .detail {
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid var(--border);
+            font-size: 0.92rem;
+            line-height: 1.65;
+            color: #444;
+            white-space: pre-wrap;
+        }
+
+        /* --- Hall cards --- */
+        .halls-header {
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--muted);
+            margin-bottom: 0.75rem;
+        }
+        .hall-card {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            padding: 1.25rem 1.35rem;
+            margin-bottom: 0.75rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+            transition: transform 0.15s ease;
+            position: relative;
+        }
+        .hall-card:hover { transform: translateY(-1px); }
+
+        .hall-card.rank-high {
+            border-left: 4px solid #2e7d32;
+        }
+        .hall-card.rank-medium {
+            border-left: 4px solid var(--maize);
+        }
+        .hall-card.rank-low {
+            border-left: 4px solid #ccc;
+        }
+        .hall-card.rank-none {
+            border-left: 4px solid #e8e4dd;
+            opacity: 0.6;
+        }
+
+        .hall-top {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 0.4rem;
+        }
+        .hall-name {
+            font-weight: 600;
+            font-size: 1.05rem;
+            color: var(--blue);
+            text-decoration: none;
+        }
+        .hall-name:hover {
+            text-decoration: underline;
+            color: var(--blue-light);
+        }
+        .score-badge {
+            font-size: 0.65rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            padding: 3px 10px;
+            border-radius: 10px;
+        }
+        .score-badge.high   { background: #e8f5e9; color: #2e7d32; }
+        .score-badge.medium { background: #fff8e1; color: #a67c00; }
+        .score-badge.low    { background: #f5f5f5; color: #888; }
+        .score-badge.none   { background: #f0f0f0; color: #aaa; }
+
+        .highlights {
+            list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin: 0.5rem 0;
+        }
+        .highlights li {
+            background: var(--bg);
+            border: 1px solid var(--border);
+            padding: 3px 10px;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: var(--blue-light);
+        }
+        .reasoning {
+            font-size: 0.85rem;
+            color: var(--muted);
+            line-height: 1.5;
+        }
+
+        /* --- Footer --- */
+        footer {
+            text-align: center;
+            padding: 1.5rem;
+            font-size: 0.75rem;
+            color: #bbb;
+        }
+        footer a { color: #999; }
+    </style>
+</head>
+<body>
+
+    <div class="hero">
+        <h1>DiningClaw</h1>
+        <div class="subtitle">University of Michigan</div>
+    </div>
+
+    <div class="container">
+
+        <p class="tagline">Your AI-powered guide to the best dining halls on campus, updated daily.<br>We scan every dinner menu so you don't have to.</p>
+
+        <div class="summary-card">
+            <div class="label">Today's Pick &middot; {{ date }}</div>
+            <div class="tldr">{{ rec.summary }}</div>
+            <div class="detail">{{ rec.recommendation }}</div>
+        </div>
+
+        <div class="halls-header">All Dining Halls</div>
+
+        {% for hall in rec.halls %}
+        <div class="hall-card rank-{{ hall.score }}">
+            <div class="hall-top">
+                <a class="hall-name" href="{{ hall.url }}" target="_blank" rel="noopener">{{ hall.name }}</a>
+                <span class="score-badge {{ hall.score }}">{{ hall.score }}</span>
+            </div>
+            {% if hall.highlights %}
+            <ul class="highlights">
+                {% for item in hall.highlights %}
+                <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+            <div class="reasoning">{{ hall.reasoning }}</div>
+        </div>
+        {% endfor %}
+
+    </div>
+
+    <footer>
+        Powered by Claude &middot; Data from <a href="https://dining.umich.edu">Michigan Dining</a>
+        <br>
+        <a href="https://github.com/QZJGeorge/UM-DiningClaw">GitHub</a> &middot; Suggestions &amp; contributions welcome
+    </footer>
+
+</body>
+</html>

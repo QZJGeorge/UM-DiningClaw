@@ -1,0 +1,303 @@
+{
+  "date": "2026-04-21",
+  "recommendation": {
+    "recommendation": "Head to **East Quad** tonight \u2014 the Ancho Flank Steak is the star of the show. Ancho chiles bring this deep, smoky, slightly sweet heat that pairs beautifully with beef, and flank steak done right is tender and packed with flavor. Pair it with the hearty Beef Barley Soup to start and finish with a White Chocolate Macadamia Nut Cookie \u2014 that's a seriously solid dinner. If East Quad isn't your scene, **Mosher-Jordan** is a fantastic backup with the Ginger Steamed Monkfish \u2014 a genuinely premium and creative protein you don't see every day in a dining hall. That delicate, flaky fish with ginger aromatics is something special.",
+    "halls": [
+      {
+        "name": "East Quad",
+        "highlights": [
+          "Ancho Flank Steak",
+          "Beef Barley Soup",
+          "White Chocolate Macadamia Nut Cookies"
+        ],
+        "score": "high",
+        "reasoning": "The Ancho Flank Steak is the best meat option across all the halls tonight \u2014 smoky, bold, and flavorful. The Beef Barley Soup is a hearty opener, and those White Chocolate Macadamia Nut Cookies are a sweet finish. This is the move tonight."
+      },
+      {
+        "name": "Mosher-Jordan",
+        "highlights": [
+          "Ginger Steamed Monkfish",
+          "Beef and Mushroom Blended Burger"
+        ],
+        "score": "high",
+        "reasoning": "Ginger Steamed Monkfish is a rare and exciting find in a dining hall \u2014 light, aromatic, and genuinely premium. If you want something different from the usual beef and burgers, this is your spot."
+      },
+      {
+        "name": "Bursley",
+        "highlights": [
+          "Beef and Mushroom Blended Burger"
+        ],
+        "score": "medium",
+        "reasoning": "The Beef and Mushroom Blended Burger is a savory, umami-rich option \u2014 mushrooms blended into beef makes for a juicy, deeply flavored patty. Not the flashiest night at Bursley, but that burger delivers."
+      },
+      {
+        "name": "North Quad",
+        "highlights": [
+          "Halal Texas Flank Steak"
+        ],
+        "score": "medium",
+        "reasoning": "The Halal Texas Flank Steak is a solid meat option \u2014 bold and satisfying. Not the most exciting spread overall tonight, but that flank steak is worth the trip if you're in the area."
+      },
+      {
+        "name": "Markley",
+        "highlights": [
+          "Halal Texas Flank Steak"
+        ],
+        "score": "medium",
+        "reasoning": "Markley's also serving the Halal Texas Flank Steak, which is a win. The Tempeh Fajitas are a fun plant-based bonus. A respectable night for meat lovers here."
+      },
+      {
+        "name": "South Quad",
+        "highlights": [
+          "Halal Texas Flank Steak",
+          "Matzo Ball Soup"
+        ],
+        "score": "medium",
+        "reasoning": "The Halal Texas Flank Steak shows up again here, and the Matzo Ball Soup is a comforting, classic touch. South Quad is a reliable stop if you want that flank steak with more variety around it."
+      },
+      {
+        "name": "Twigs at Oxford",
+        "highlights": [
+          "Banana Cream Pie"
+        ],
+        "score": "low",
+        "reasoning": "Not their strongest night for premium meats \u2014 the Banana Cream Pie is a sweet highlight, but if you're hunting for quality protein tonight, other halls are the better call."
+      },
+      {
+        "name": "Wolverine Village",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today \u2014 check back another time!"
+      }
+    ],
+    "summary": "East Quad's Ancho Flank Steak is tonight's MVP \u2014 smoky, bold, and the best meat on any menu today! \ud83e\udd69"
+  },
+  "menus": [
+    {
+      "name": "Bursley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/bursley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Cream of Tomato Soup"
+          ],
+          "Signature Maize": [
+            "Smoked Spicy Pork Shoulder"
+          ],
+          "Signature Blue": [
+            "Creamy Pinto Beans"
+          ],
+          "24 Carrots": [
+            "Tofu Poke"
+          ],
+          "Halal": [
+            "Halal Chipotle Roast Chicken"
+          ],
+          "Pizziti": [
+            "Thai Chicken Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Breads and Rolls": [
+            "Assorted Rolls"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Banana Cream Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "East Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/east-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Beef Barley Soup"
+          ],
+          "Signature Maize": [
+            "Ancho Flank Steak"
+          ],
+          "24 Carrots": [
+            "Tofu Poke"
+          ],
+          "Halal": [
+            "Halal Chipotle Roast Chicken"
+          ],
+          "Pizziti": [
+            "Cheese Bread"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "White Chocolate Macadamia Nut Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Markley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/markley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Beef Barley Soup"
+          ],
+          "Signature Maize": [
+            "Carnitas-Style Chicken"
+          ],
+          "24 Carrots": [
+            "Tempeh Fajitas"
+          ],
+          "Halal": [
+            "Halal Texas Flank Steak"
+          ],
+          "MBakery": [
+            "Banana Cream Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Mosher-Jordan",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/mosher-jordan/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Tomato Rice Soup"
+          ],
+          "Signature Maize": [
+            "Pork Carnitas"
+          ],
+          "World Palate Maize": [
+            "Moo Shoo Chicken"
+          ],
+          "24 Carrots": [
+            "Tofu Moo Shoo"
+          ],
+          "Halal": [
+            "Ginger Steamed Monkfish"
+          ],
+          "Pizziti": [
+            "Pepperoni Flatbread Pizza"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "Kings Hawaiian Grill": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "Banana Cream Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "North Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/north-quad/",
+      "meals": {
+        "Dinner": {
+          "Signature Maize": [
+            "Chicken Taco Meat"
+          ],
+          "Signature Blue": [
+            "Shredded Iceberg Lettuce"
+          ],
+          "24 Carrots": [
+            "Tofu Poke"
+          ],
+          "Halal": [
+            "Halal Texas Flank Steak"
+          ],
+          "Vita": [
+            "Cavatappi with Marinara Sauce"
+          ],
+          "Pizziti": [
+            "Pepperoni Flatbread Pizza"
+          ],
+          "MBakery": [
+            "Banana Cream Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "South Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Beef Barley Soup"
+          ],
+          "Signature Maize": [
+            "Halal Texas Flank Steak"
+          ],
+          "24 Carrots": [
+            "Tofu Poke"
+          ],
+          "Halal": [
+            "Halal Chipotle Roast Chicken"
+          ],
+          "Vita": [
+            "Gemelli Pasta"
+          ],
+          "Sabroso": [
+            "No Service at this Time"
+          ],
+          "Pizziti": [
+            "Pesto Chicken Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Two Oceans": [
+            "Pork"
+          ],
+          "Kosher": [
+            "Matzo Ball Soup"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Chocolate Chunk Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Twigs at Oxford",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/twigs-at-oxford/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Tomato Rice Soup"
+          ],
+          "Signature Maize": [
+            "Pork Carnitas"
+          ],
+          "Halal": [
+            "Halal Chipotle Roast Chicken"
+          ],
+          "Wild Fire Maize": [
+            "French Fries"
+          ],
+          "MBakery": [
+            "Banana Cream Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Wolverine Village",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/wolverine-village-dining-hall/",
+      "meals": {}
+    }
+  ]
+}
