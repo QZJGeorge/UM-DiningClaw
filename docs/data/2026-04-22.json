@@ -1,0 +1,308 @@
+{
+  "date": "2026-04-22",
+  "recommendation": {
+    "recommendation": "Head to **Mosher-Jordan** tonight! The star of the show is the **Goan Prawn Coconut Curry** \u2014 we're talking plump prawns slow-simmered in a rich, aromatic coconut curry that's got serious depth of flavor. It's the kind of dish that transports you straight to the coast of India. Pair that with the **Beef and Mushroom Blended Burger** from Kings Hawaiian Grill for a smoky, umami-packed patty with earthy mushroom flavor, and you've got a genuinely exciting dinner lineup. The **Shrimp Bisque** is floating around a few halls too, but MoJo's prawn curry is the real prize tonight.",
+    "halls": [
+      {
+        "name": "Mosher-Jordan",
+        "highlights": [
+          "Goan Prawn Coconut Curry",
+          "Beef and Mushroom Blended Burger"
+        ],
+        "score": "high",
+        "reasoning": "The Goan Prawn Coconut Curry is the most exciting protein on any menu tonight \u2014 fragrant coconut broth, tender prawns, bold spicing. The Beef and Mushroom Blended Burger adds another solid meat option with deep umami flavor. MoJo wins tonight, no contest."
+      },
+      {
+        "name": "South Quad",
+        "highlights": [
+          "Beef Teriyaki",
+          "Beef and Mushroom Blended Burger",
+          "Shrimp Bisque"
+        ],
+        "score": "high",
+        "reasoning": "South Quad is stacked with meat options \u2014 the Beef Teriyaki from Two Oceans is sweet, savory, and satisfying, and the Beef and Mushroom Blended Burger brings that earthy richness. Creamy Shrimp Bisque rounds it out nicely. A strong night here."
+      },
+      {
+        "name": "East Quad",
+        "highlights": [
+          "Beef and Mushroom Blended Burger",
+          "Shrimp Bisque"
+        ],
+        "score": "medium",
+        "reasoning": "The Beef and Mushroom Blended Burger is a solid pick \u2014 juicy and savory with that mushroom depth. Shrimp Bisque is a warm, creamy bonus. Not the most adventurous lineup but the beef burger delivers."
+      },
+      {
+        "name": "Bursley",
+        "highlights": [
+          "Shrimp Bisque",
+          "Halal Baked Ziti"
+        ],
+        "score": "medium",
+        "reasoning": "Shrimp Bisque is rich and comforting, and the Halal Baked Ziti is a hearty, cheesy crowd-pleaser. Not a heavy meat night at Bursley, but these two shine."
+      },
+      {
+        "name": "North Quad",
+        "highlights": [
+          "Beef Barley Soup"
+        ],
+        "score": "low",
+        "reasoning": "The Beef Barley Soup is hearty and warming \u2014 tender beef in a savory broth \u2014 but beyond that it's not a big meat night at North Quad. Worth a visit if you're nearby though!"
+      },
+      {
+        "name": "Markley",
+        "highlights": [
+          "Shrimp Bisque",
+          "Sweet & Spicy Tofu"
+        ],
+        "score": "low",
+        "reasoning": "Not their strongest meat night \u2014 the Shrimp Bisque is a reliable creamy option, and the Sweet & Spicy Tofu is a fun plant-based pick. A quieter evening at Markley."
+      },
+      {
+        "name": "Twigs at Oxford",
+        "highlights": [
+          "Authentic Minestrone"
+        ],
+        "score": "low",
+        "reasoning": "Twigs is keeping it simple tonight \u2014 the Minestrone is cozy and veggie-forward. Not the destination for meat lovers today, but the soup is a warm, classic pick."
+      },
+      {
+        "name": "Wolverine Village",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service tonight \u2014 check back another day!"
+      }
+    ],
+    "summary": "\ud83e\udd90 Mosher-Jordan's Goan Prawn Coconut Curry is the most exciting protein on campus tonight \u2014 don't sleep on it!"
+  },
+  "menus": [
+    {
+      "name": "Bursley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/bursley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Shrimp Bisque"
+          ],
+          "Signature Maize": [
+            "Buffalo Chicken Wings"
+          ],
+          "Signature Blue": [
+            "Fried Breaded Cauliflower"
+          ],
+          "24 Carrots": [
+            "Rajma"
+          ],
+          "Halal": [
+            "Halal Baked Ziti"
+          ],
+          "Pizziti": [
+            "Chicken Ranch Pizza with Bacon"
+          ],
+          "Wild Fire Maize": [
+            "Italian Sausage on White Bun"
+          ],
+          "Breads and Rolls": [
+            "Assorted Rolls"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Blueberry Banana Cake with Coconut"
+          ]
+        }
+      }
+    },
+    {
+      "name": "East Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/east-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Shrimp Bisque"
+          ],
+          "Signature Maize": [
+            "Buffalo Chicken Wings"
+          ],
+          "24 Carrots": [
+            "Pea and Potato Curry"
+          ],
+          "Halal": [
+            "Marrakesh Chicken Breast"
+          ],
+          "Pizziti": [
+            "Chicken Ranch Pizza with Bacon"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "Maize and Blue Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Markley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/markley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Shrimp Bisque"
+          ],
+          "Signature Maize": [
+            "Grilled Pork Chops"
+          ],
+          "24 Carrots": [
+            "Sweet & Spicy Tofu"
+          ],
+          "Halal": [
+            "Lemon Roasted Chicken"
+          ],
+          "MBakery": [
+            "Chocolate Chunk Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Mosher-Jordan",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/mosher-jordan/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Authentic Minestrone"
+          ],
+          "Signature Maize": [
+            "Grilled Pork Chops"
+          ],
+          "World Palate Maize": [
+            "Goan Prawn Coconut Curry"
+          ],
+          "24 Carrots": [
+            "Pea and Potato Curry"
+          ],
+          "Halal": [
+            "Marrakesh Chicken Breast"
+          ],
+          "Pizziti": [
+            "Pepperoni Flatbread Pizza"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "Kings Hawaiian Grill": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "Chocolate Peanut Butter Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "North Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/north-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Beef Barley Soup"
+          ],
+          "Signature Blue": [
+            "Fried Pita Chips"
+          ],
+          "24 Carrots": [
+            "Rajma"
+          ],
+          "Halal": [
+            "Huli Huli Chicken"
+          ],
+          "Vita": [
+            "Cavatappi"
+          ],
+          "Pizziti": [
+            "Chicken, Ranch and Bacon Flatbread Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Buffalo Wings"
+          ],
+          "MBakery": [
+            "Chocolate Peanut Butter Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "South Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Shrimp Bisque"
+          ],
+          "Signature Maize": [
+            "Grilled Pork Chops"
+          ],
+          "24 Carrots": [
+            "Pea and Potato Curry"
+          ],
+          "Halal": [
+            "Marrakesh Chicken Breast"
+          ],
+          "Vita": [
+            "Gemelli Pasta"
+          ],
+          "Sabroso": [
+            "No Service at this Time"
+          ],
+          "Pizziti": [
+            "Blue Cheese & Bacon Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Two Oceans": [
+            "Beef Teriyaki"
+          ],
+          "Kosher": [
+            "Navy Bean Soup"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Chocolate Chunk Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Twigs at Oxford",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/twigs-at-oxford/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Authentic Minestrone"
+          ],
+          "Signature Maize": [
+            "Kale Saute"
+          ],
+          "Halal": [
+            "Marrakesh Chicken Breast"
+          ],
+          "Wild Fire Maize": [
+            "French Fries"
+          ],
+          "MBakery": [
+            "Blueberry Banana Cake with Coconut"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Wolverine Village",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/wolverine-village-dining-hall/",
+      "meals": {}
+    }
+  ]
+}
