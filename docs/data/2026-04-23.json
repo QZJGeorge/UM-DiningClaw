@@ -1,0 +1,307 @@
+{
+  "date": "2026-04-23",
+  "recommendation": {
+    "recommendation": "Head to **Bursley or East Quad** tonight if you're chasing quality meat! Bursley is serving up **Lamb Gyro Meat** at Signature Maize AND a **Beef and Mushroom Blended Burger** at Wild Fire \u2014 that's two solid options in one hall. East Quad is running the same lamb gyro (Halal station) alongside a hearty **Beef Lasagna**, so you've got that rich, meaty pasta bake in the mix too. Lamb is always a win when it shows up \u2014 it's flavorful, tender, and way more interesting than your average dining hall protein. Bursley edges it out for sheer variety of meat options tonight.",
+    "halls": [
+      {
+        "name": "Bursley",
+        "highlights": [
+          "Lamb Gyro Meat",
+          "Beef and Mushroom Blended Burger"
+        ],
+        "score": "high",
+        "reasoning": "Two legit meat options tonight \u2014 savory lamb gyro meat and a umami-packed beef and mushroom blended burger. Bursley is your best bet if you want real protein variety and bold flavors."
+      },
+      {
+        "name": "East Quad",
+        "highlights": [
+          "Lamb Gyro Meat (Halal)",
+          "Beef Lasagna"
+        ],
+        "score": "high",
+        "reasoning": "Tender lamb gyro meat at the Halal station plus a classic hearty beef lasagna \u2014 solid one-two punch for meat lovers tonight."
+      },
+      {
+        "name": "Mosher-Jordan",
+        "highlights": [
+          "Halal Lasagna Rollups with Meat Sauce",
+          "Beef and Mushroom Blended Burger"
+        ],
+        "score": "medium",
+        "reasoning": "Meat sauce lasagna rollups are a fun twist on the classic, and the beef and mushroom burger rounds things out nicely."
+      },
+      {
+        "name": "South Quad",
+        "highlights": [
+          "Beef Lasagna",
+          "Beef and Mushroom Blended Burger",
+          "Beef Taco Pizza"
+        ],
+        "score": "medium",
+        "reasoning": "Lots of beef on the menu tonight \u2014 lasagna, blended burger, and even a taco pizza. Plenty of options if you're in the area."
+      },
+      {
+        "name": "North Quad",
+        "highlights": [
+          "Halal Meatball Sub"
+        ],
+        "score": "medium",
+        "reasoning": "The halal meatball sub is the meat highlight here \u2014 saucy, satisfying, and always a crowd-pleaser."
+      },
+      {
+        "name": "Twigs at Oxford",
+        "highlights": [
+          "Lamb Gyro Meat"
+        ],
+        "score": "medium",
+        "reasoning": "Lamb gyro meat is a great protein showing up here too, though the overall menu is pretty focused tonight."
+      },
+      {
+        "name": "Markley",
+        "highlights": [
+          "Hoppin' John Black Eyed Peas and Rice"
+        ],
+        "score": "low",
+        "reasoning": "Not their strongest night for meat options \u2014 the standout is actually the plant-based Hoppin' John. Worth a visit if you're nearby, but not the destination for carnivores tonight."
+      },
+      {
+        "name": "Wolverine Village",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today \u2014 catch them next time!"
+      }
+    ],
+    "summary": "Bursley is the move tonight \u2014 lamb gyro meat AND a beef and mushroom burger make it the clear king for quality meat options! \ud83d\udc11\ud83c\udf54"
+  },
+  "menus": [
+    {
+      "name": "Bursley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/bursley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Black Bean Soup"
+          ],
+          "Signature Maize": [
+            "Lamb Gyro Meat"
+          ],
+          "Signature Blue": [
+            "Grilled Portabello Mushroom"
+          ],
+          "24 Carrots": [
+            "Seitan Coconut Panang"
+          ],
+          "Halal": [
+            "Piri-Piri Chicken"
+          ],
+          "Pizziti": [
+            "Mushroom Chive Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Breads and Rolls": [
+            "Assorted Rolls"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Double Chocolate Cookie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "East Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/east-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Black Bean Soup"
+          ],
+          "Signature Maize": [
+            "Beef Lasagna"
+          ],
+          "24 Carrots": [
+            "Mushroom Ramen"
+          ],
+          "Halal": [
+            "Lamb Gyro Meat"
+          ],
+          "Pizziti": [
+            "Mushroom Chive Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Turkey Burger on White Bun"
+          ],
+          "MBakery": [
+            "Sugar Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Markley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/markley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Corn Chowder"
+          ],
+          "Signature Maize": [
+            "Penne Pasta"
+          ],
+          "24 Carrots": [
+            "Hoppin' John Black Eyed Peas and Rice"
+          ],
+          "Halal": [
+            "Piri-Piri Chicken"
+          ],
+          "MBakery": [
+            "Chocolate Chunk Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Mosher-Jordan",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/mosher-jordan/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Black Bean Soup"
+          ],
+          "Signature Maize": [
+            "Halal Lasagna Rollups with Meat Sauce"
+          ],
+          "World Palate Maize": [
+            "Paneer Tikka"
+          ],
+          "24 Carrots": [
+            "White Bean Mint and Red Onion Salad"
+          ],
+          "Halal": [
+            "Chicken Gyro"
+          ],
+          "Pizziti": [
+            "Cheese Flatbread Pizza"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "Kings Hawaiian Grill": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "M&M Torte"
+          ]
+        }
+      }
+    },
+    {
+      "name": "North Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/north-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Maize Chowder"
+          ],
+          "Signature Blue": [
+            "Fried Pita Chips"
+          ],
+          "24 Carrots": [
+            "Baked Butternut Squash"
+          ],
+          "Halal": [
+            "Grilled Chicken"
+          ],
+          "Vita": [
+            "UNIT CHOICE MEAL"
+          ],
+          "Pizziti": [
+            "Pepperoni Flatbread Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Halal Meatball Sub"
+          ],
+          "MBakery": [
+            "M&M Torte"
+          ]
+        }
+      }
+    },
+    {
+      "name": "South Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Corn Chowder"
+          ],
+          "Signature Maize": [
+            "Beef Lasagna"
+          ],
+          "24 Carrots": [
+            "Baked Butternut Squash"
+          ],
+          "Halal": [
+            "Piri-Piri Chicken"
+          ],
+          "Vita": [
+            "Gemelli Pasta"
+          ],
+          "Sabroso": [
+            "No Service at this Time"
+          ],
+          "Pizziti": [
+            "Beef Taco Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Two Oceans": [
+            "Mongolian Chicken w/ Fried Noodles"
+          ],
+          "Kosher": [
+            "UNIT CHOICE MEAL"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Chocolate Chunk Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Twigs at Oxford",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/twigs-at-oxford/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Corn Chowder"
+          ],
+          "Signature Maize": [
+            "Baked Butternut Squash"
+          ],
+          "Halal": [
+            "Lamb Gyro Meat"
+          ],
+          "Wild Fire Maize": [
+            "French Fries"
+          ],
+          "MBakery": [
+            "Double Chocolate Cookie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Wolverine Village",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/wolverine-village-dining-hall/",
+      "meals": {}
+    }
+  ]
+}
