@@ -1,0 +1,300 @@
+{
+  "date": "2026-04-24",
+  "recommendation": {
+    "recommendation": "North Quad is your move tonight if you're after quality meat \u2014 Lamb Vindaloo is the standout of the entire dining scene today. Tender lamb slow-cooked in a bold, spicy vindaloo sauce is just a completely different level from the usual rotation. Bursley is a strong runner-up with that Halal Smoked Memphis Brisket, smoky and rich, plus Italian Grilled Shrimp as a bonus. Mosher-Jordan's Beef and Mushroom Blended Burger from Kings Hawaiian Grill is also worth a look \u2014 juicy, earthy, and a fun twist on a classic.",
+    "halls": [
+      {
+        "name": "North Quad",
+        "highlights": [
+          "Lamb Vindaloo"
+        ],
+        "score": "high",
+        "reasoning": "Lamb Vindaloo is the crown jewel of tonight's menus \u2014 bold spices, rich sauce, and tender lamb make this the most exciting meat dish across all the halls today. Don't sleep on it."
+      },
+      {
+        "name": "Bursley",
+        "highlights": [
+          "Halal Smoked Memphis Brisket",
+          "Italian Grilled Shrimp"
+        ],
+        "score": "high",
+        "reasoning": "Smoky, slow-cooked Memphis brisket is always a win, and pairing it with Italian Grilled Shrimp gives you two premium proteins in one visit. Solid night at Bursley."
+      },
+      {
+        "name": "Mosher-Jordan",
+        "highlights": [
+          "Beef and Mushroom Blended Burger",
+          "Italian Grilled Shrimp"
+        ],
+        "score": "medium",
+        "reasoning": "The Kings Hawaiian Beef and Mushroom Blended Burger is a savory, umami-packed option worth grabbing, and the Italian Grilled Shrimp rounds things out nicely."
+      },
+      {
+        "name": "South Quad",
+        "highlights": [
+          "Italian Grilled Shrimp",
+          "Beef and Mushroom Blended Burger"
+        ],
+        "score": "medium",
+        "reasoning": "Italian Grilled Shrimp and the Beef and Mushroom Blended Burger give you two solid meat options, plus Ramen Noodle if you want something warming on the side."
+      },
+      {
+        "name": "East Quad",
+        "highlights": [
+          "Halal Smoked Memphis Brisket"
+        ],
+        "score": "medium",
+        "reasoning": "The Halal Smoked Memphis Brisket over at the Halal station is a legit highlight \u2014 smoky and satisfying. Not a huge meat spread tonight but that brisket earns its place."
+      },
+      {
+        "name": "Twigs at Oxford",
+        "highlights": [
+          "Italian Grilled Shrimp"
+        ],
+        "score": "low",
+        "reasoning": "Italian Grilled Shrimp is the one standout meat option here \u2014 fresh and flavorful, but not their biggest night for variety."
+      },
+      {
+        "name": "Markley",
+        "highlights": [],
+        "score": "low",
+        "reasoning": "Not their strongest night for premium meat options \u2014 most of the proteins are ones we're skipping over tonight."
+      },
+      {
+        "name": "Wolverine Village",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today \u2014 check back another time!"
+      }
+    ],
+    "summary": "Head to North Quad for Lamb Vindaloo \u2014 it's the most exciting meat dish on any menu tonight and reason enough to make the trip."
+  },
+  "menus": [
+    {
+      "name": "Bursley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/bursley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Manhattan Clam Chowder"
+          ],
+          "Signature Maize": [
+            "Halal Smoked Memphis Brisket"
+          ],
+          "Signature Blue": [
+            "Spicy Jackfruit"
+          ],
+          "24 Carrots": [
+            "General Tso's Tofu"
+          ],
+          "Halal": [
+            "Italian Grilled Shrimp"
+          ],
+          "Pizziti": [
+            "Cheeseburger Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Homestyle Chicken Tenders"
+          ],
+          "Breads and Rolls": [
+            "Assorted Rolls"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Pineapple Upside Down Cake"
+          ]
+        }
+      }
+    },
+    {
+      "name": "East Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/east-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Manhattan Clam Chowder"
+          ],
+          "Signature Maize": [
+            "Pierogi Bravas"
+          ],
+          "24 Carrots": [
+            "Empanadas"
+          ],
+          "Halal": [
+            "Halal Smoked Memphis Brisket"
+          ],
+          "Pizziti": [
+            "Cheese Bread"
+          ],
+          "Wild Fire Maize": [
+            "Chicken & Dumplings"
+          ],
+          "MBakery": [
+            "Chocolate Chunk Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Markley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/markley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Cream of Tomato Soup"
+          ],
+          "Signature Maize": [
+            "Homestyle Chicken Tenders"
+          ],
+          "24 Carrots": [
+            "Italian Beans & Rice"
+          ],
+          "Halal": [
+            "Chicken Cacciatore"
+          ],
+          "MBakery": [
+            "Chocolate Chunk Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Mosher-Jordan",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/mosher-jordan/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Vegetable Soup with Basil"
+          ],
+          "Signature Maize": [
+            "Baked Halal Chicken"
+          ],
+          "World Palate Maize": [
+            "Habanero Rubbed Pork Shoulder"
+          ],
+          "24 Carrots": [
+            "Koshari"
+          ],
+          "Halal": [
+            "Italian Grilled Shrimp"
+          ],
+          "Pizziti": [
+            "Pepperoni Flatbread Pizza"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "Kings Hawaiian Grill": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "Pineapple Upside Down Cake"
+          ]
+        }
+      }
+    },
+    {
+      "name": "North Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/north-quad/",
+      "meals": {
+        "Dinner": {
+          "Signature Blue": [
+            "Fried Pita Chips"
+          ],
+          "24 Carrots": [
+            "Samosas"
+          ],
+          "Halal": [
+            "Lamb Vindaloo"
+          ],
+          "Vita": [
+            "UNIT CHOICE MEAL"
+          ],
+          "Pizziti": [
+            "Pepperoni Flatbread Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Homestyle Chicken Tenders"
+          ],
+          "MBakery": [
+            "Pineapple Upside Down Cake"
+          ]
+        }
+      }
+    },
+    {
+      "name": "South Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "New England Clam Chowder"
+          ],
+          "Signature Maize": [
+            "Habanero Rubbed Pork Shoulder"
+          ],
+          "24 Carrots": [
+            "Koshari"
+          ],
+          "Halal": [
+            "Italian Grilled Shrimp"
+          ],
+          "Vita": [
+            "Gemelli Pasta"
+          ],
+          "Sabroso": [
+            "No Service at this Time"
+          ],
+          "Pizziti": [
+            "Ham and Pineapple Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Two Oceans": [
+            "Ramen Noodle"
+          ],
+          "Kosher": [
+            "No Service at this Time"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Chocolate Chunk Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Twigs at Oxford",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/twigs-at-oxford/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Potato, Spinach & Tomato Soup"
+          ],
+          "Signature Maize": [
+            "Koshari"
+          ],
+          "Halal": [
+            "Italian Grilled Shrimp"
+          ],
+          "Wild Fire Maize": [
+            "French Fries"
+          ],
+          "MBakery": [
+            "Pineapple Upside Down Cake"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Wolverine Village",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/wolverine-village-dining-hall/",
+      "meals": {}
+    }
+  ]
+}
