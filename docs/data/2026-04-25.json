@@ -1,0 +1,252 @@
+{
+  "date": "2026-04-25",
+  "recommendation": {
+    "recommendation": "Head to **South Quad** tonight! That Chicken Biryani from the Halal station is the move \u2014 fragrant basmati rice packed with warm spices, it's the kind of dish that actually feels like a real meal. The Beef and Mushroom Blended Burger at Wild Fire Maize is a solid backup if you want something hearty and savory. Plus the Vegetable Wonton Soup is a great starter to get you warmed up. South Quad is bringing the most interesting flavors tonight!",
+    "halls": [
+      {
+        "name": "South Quad",
+        "highlights": [
+          "Chicken Biryani",
+          "Beef and Mushroom Blended Burger",
+          "Vegetable Wonton Soup"
+        ],
+        "score": "high",
+        "reasoning": "Chicken Biryani is the standout of the night \u2014 aromatic, spiced, and satisfying. The Beef and Mushroom Blended Burger adds a hearty umami-rich option, and the wonton soup is a fun way to start. Best variety of the dining halls open tonight."
+      },
+      {
+        "name": "Bursley",
+        "highlights": [
+          "Beef and Mushroom Blended Burger",
+          "Turkey White Bean Chili"
+        ],
+        "score": "medium",
+        "reasoning": "The Beef and Mushroom Blended Burger is a savory, earthy pick, and the Turkey White Bean Chili is a warm, protein-packed bowl worth grabbing. Not the flashiest night, but solid comfort food."
+      },
+      {
+        "name": "Mosher-Jordan",
+        "highlights": [
+          "BBQ Meatloaf",
+          "Beef and Mushroom Blended Burger"
+        ],
+        "score": "medium",
+        "reasoning": "BBQ Meatloaf is a classic hearty option with that smoky-sweet glaze, and the Beef and Mushroom Blended Burger is always a reliable umami bomb. Not their most exciting night but the meat options are filling and flavorful."
+      },
+      {
+        "name": "East Quad",
+        "highlights": [
+          "Beef and Mushroom Blended Burger"
+        ],
+        "score": "low",
+        "reasoning": "The Beef and Mushroom Blended Burger is your best bet for meat here tonight. Not their strongest showing, but that burger delivers on flavor if you're nearby."
+      },
+      {
+        "name": "Twigs at Oxford",
+        "highlights": [
+          "Vegetable Curry",
+          "Tofu with Coconut, Barley, and Quinoa"
+        ],
+        "score": "low",
+        "reasoning": "Twigs is leaning plant-based tonight \u2014 the Vegetable Curry sounds warm and flavorful, but if you're specifically hunting for meat options, this isn't the spot today."
+      },
+      {
+        "name": "Markley",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today \u2014 catch them next time!"
+      },
+      {
+        "name": "North Quad",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today \u2014 nothing to report but they'll be back!"
+      },
+      {
+        "name": "Wolverine Village",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today \u2014 swing by another night!"
+      }
+    ],
+    "summary": "South Quad's Chicken Biryani is the dish of the night \u2014 spiced, aromatic, and worth the trip! \ud83c\udf5b"
+  },
+  "menus": [
+    {
+      "name": "Bursley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/bursley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Turkey White Bean Chili"
+          ],
+          "Signature Maize": [
+            "Macaroni & Cheese"
+          ],
+          "24 Carrots": [
+            "Tofu Topping"
+          ],
+          "Halal": [
+            "Baked Halal Chicken"
+          ],
+          "Pizziti": [
+            "Garlic Cheese Bread"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Breads and Rolls": [
+            "Assorted Rolls"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Faygo RedPop Cream Cake"
+          ]
+        }
+      }
+    },
+    {
+      "name": "East Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/east-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Chickpea Soup"
+          ],
+          "Signature Maize": [
+            "Pork Fried Rice"
+          ],
+          "24 Carrots": [
+            "Tofu with Coconut, Barley, and Quinoa"
+          ],
+          "Halal": [
+            "Baked Halal Chicken"
+          ],
+          "Pizziti": [
+            "Cheese Bread"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "Faygo RedPop Cream Cake"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Markley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/markley/",
+      "meals": {}
+    },
+    {
+      "name": "Mosher-Jordan",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/mosher-jordan/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Vegan Tomato Soup"
+          ],
+          "Signature Maize": [
+            "Macaroni & Cheese"
+          ],
+          "World Palate Maize": [
+            "Baked Halal Chicken"
+          ],
+          "24 Carrots": [
+            "Tofu with Coconut, Barley, and Quinoa"
+          ],
+          "Halal": [
+            "BBQ Meatloaf"
+          ],
+          "Pizziti": [
+            "Pepperoni Pizza"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "Kings Hawaiian Grill": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "Faygo RedPop Cream Cake"
+          ]
+        }
+      }
+    },
+    {
+      "name": "North Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/north-quad/",
+      "meals": {}
+    },
+    {
+      "name": "South Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Vegetable Wonton Soup"
+          ],
+          "Signature Maize": [
+            "BBQ Meatloaf"
+          ],
+          "24 Carrots": [
+            "Tofu with Coconut, Barley, and Quinoa"
+          ],
+          "Halal": [
+            "Chicken Biryani"
+          ],
+          "Vita": [
+            "Gemelli Pasta"
+          ],
+          "Sabroso": [
+            "No Service at this Time"
+          ],
+          "Pizziti": [
+            "Pepperoni Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Two Oceans": [
+            "No Service at this Time"
+          ],
+          "Kosher": [
+            "No Service at this Time"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Maize and Blue Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Twigs at Oxford",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/twigs-at-oxford/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Vegetable Wonton Soup"
+          ],
+          "Signature Maize": [
+            "Tofu with Coconut, Barley, and Quinoa"
+          ],
+          "Halal": [
+            "Vegetable Curry"
+          ],
+          "MBakery": [
+            "Faygo RedPop Cream Cake"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Wolverine Village",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/wolverine-village-dining-hall/",
+      "meals": {}
+    }
+  ]
+}
