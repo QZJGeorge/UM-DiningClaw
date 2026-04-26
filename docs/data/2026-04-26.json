@@ -1,0 +1,251 @@
+{
+  "date": "2026-04-26",
+  "recommendation": {
+    "recommendation": "Mosher-Jordan and South Quad are both calling your name tonight for serious meat lovers! MoJo's got **Blackened Haddock** \u2014 that crispy, boldly spiced fish is a standout \u2014 plus **Halal Greek Nachos with Lamb** which sounds absolutely fire. South Quad is bringing **Halal Texas Flank Steak**, and flank steak at a dining hall? That's a rare treat you don't want to sleep on. If you can only pick one, head to **South Quad** for that steak \u2014 savory, hearty, and the kind of protein-forward dinner that actually satisfies.",
+    "halls": [
+      {
+        "name": "South Quad",
+        "highlights": [
+          "Halal Texas Flank Steak",
+          "Sukiyaki-Style Udon Bowl"
+        ],
+        "score": "high",
+        "reasoning": "Flank steak is the real deal tonight \u2014 a premium cut that's bold, beefy, and absolutely worth the trip. Round it out with the Sukiyaki-Style Udon Bowl for something a little more adventurous."
+      },
+      {
+        "name": "Mosher-Jordan",
+        "highlights": [
+          "Blackened Haddock",
+          "Halal Greek Nachos with Lamb"
+        ],
+        "score": "high",
+        "reasoning": "Two meat (and fish!) wins in one hall. The Blackened Haddock brings serious flavor with that smoky spiced crust, and Greek Nachos with Lamb is a creative, craveable combo you won't find every day."
+      },
+      {
+        "name": "Bursley",
+        "highlights": [
+          "Lamb Vindaloo",
+          "Taiwanese Three Cup Stir Fry with Tofu"
+        ],
+        "score": "medium",
+        "reasoning": "Lamb Vindaloo is a bold, spice-forward dish that's genuinely exciting \u2014 rich, aromatic, and warming. Great pick if you love South Asian flavors."
+      },
+      {
+        "name": "East Quad",
+        "highlights": [
+          "BBQ Roast Beef",
+          "Sukiyaki-Style Udon Bowl"
+        ],
+        "score": "medium",
+        "reasoning": "BBQ Roast Beef is a solid, satisfying option \u2014 tender and smoky. Not the flashiest night at East Quad, but the roast beef delivers."
+      },
+      {
+        "name": "Twigs at Oxford",
+        "highlights": [
+          "Ancho Flank Steak"
+        ],
+        "score": "medium",
+        "reasoning": "Ancho Flank Steak sounds smoky and rich \u2014 a great meat option if you're near Oxford. The menu is smaller tonight, but that steak is worth noting."
+      },
+      {
+        "name": "Markley",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today \u2014 catch them next time!"
+      },
+      {
+        "name": "North Quad",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today \u2014 check back soon!"
+      },
+      {
+        "name": "Wolverine Village",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today \u2014 they'll be back!"
+      }
+    ],
+    "summary": "Head to South Quad for that Halal Texas Flank Steak \u2014 a premium cut that makes tonight a proper dinner win! \ud83e\udd69"
+  },
+  "menus": [
+    {
+      "name": "Bursley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/bursley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Nacho Corn Mexicali Soup"
+          ],
+          "Signature Maize": [
+            "Pulled Sriracha Chicken"
+          ],
+          "24 Carrots": [
+            "Taiwanese Three Cup Stir Fry with Tofu"
+          ],
+          "Halal": [
+            "Lamb Vindaloo"
+          ],
+          "Pizziti": [
+            "Garlic Cheese Bread"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Breads and Rolls": [
+            "Assorted Rolls"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Cherry Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "East Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/east-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "UNIT CHOICE MEAL"
+          ],
+          "Signature Maize": [
+            "Chicken Marsala"
+          ],
+          "24 Carrots": [
+            "Sukiyaki-Style Udon Bowl"
+          ],
+          "Halal": [
+            "BBQ Roast Beef"
+          ],
+          "Pizziti": [
+            "Cheese Bread"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "Molasses Ginger Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Markley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/markley/",
+      "meals": {}
+    },
+    {
+      "name": "Mosher-Jordan",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/mosher-jordan/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Lentil Soup"
+          ],
+          "Signature Maize": [
+            "Blackened Haddock"
+          ],
+          "World Palate Maize": [
+            "Halal Greek Nachos with Lamb"
+          ],
+          "24 Carrots": [
+            "Sukiyaki-Style Udon Bowl"
+          ],
+          "Halal": [
+            "Chili, Lime and Cilantro Chicken Thighs"
+          ],
+          "Pizziti": [
+            "Pepperoni Pizza"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "Kings Hawaiian Grill": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "Cherry Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "North Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/north-quad/",
+      "meals": {}
+    },
+    {
+      "name": "South Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Chicken Tortellini Soup"
+          ],
+          "Signature Maize": [
+            "Chicken Marsala"
+          ],
+          "24 Carrots": [
+            "Sukiyaki-Style Udon Bowl"
+          ],
+          "Halal": [
+            "Halal Texas Flank Steak"
+          ],
+          "Vita": [
+            "Penne Pasta"
+          ],
+          "Sabroso": [
+            "No Service at this Time"
+          ],
+          "Pizziti": [
+            "Cheese Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Two Oceans": [
+            "No Service at this Time"
+          ],
+          "Kosher": [
+            "Tomato Rice Soup"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Chocolate Chunk Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Twigs at Oxford",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/twigs-at-oxford/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Maize Chowder"
+          ],
+          "Signature Maize": [
+            "Halal Italian Chicken"
+          ],
+          "Halal": [
+            "Ancho Flank Steak"
+          ],
+          "MBakery": [
+            "Cherry Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Wolverine Village",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/wolverine-village-dining-hall/",
+      "meals": {}
+    }
+  ]
+}
