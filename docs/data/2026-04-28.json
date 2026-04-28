@@ -1,0 +1,304 @@
+{
+  "date": "2026-04-28",
+  "recommendation": {
+    "recommendation": "Head to **Twigs at Oxford** tonight! The Parmesan Crusted Whitefish at the Halal station is the real star \u2014 a beautifully prepared fish dish with a crispy, savory parmesan crust that stands out from the usual dining hall fare. Pair that with the Hearty Beef Soup to start and you've got a genuinely satisfying dinner. If Twigs isn't your vibe, **Mosher-Jordan** is a strong backup with their Rice Noodles w/ Beef & Vegetables bringing some fun Asian-inspired flavors to the table, plus that Halal Braised Chicken w/ Moroccan Spices smells like it hits.",
+    "halls": [
+      {
+        "name": "Twigs at Oxford",
+        "highlights": [
+          "Parmesan Crusted Whitefish (Halal)",
+          "Hearty Beef Soup"
+        ],
+        "score": "high",
+        "reasoning": "That Parmesan Crusted Whitefish is the best premium protein on any menu today \u2014 flaky whitefish with a golden, cheesy crust is a cut above. The Hearty Beef Soup makes for a great opener too."
+      },
+      {
+        "name": "Mosher-Jordan",
+        "highlights": [
+          "Rice Noodles w/ Beef & Vegetables",
+          "Braised Chicken w/ Moroccan Spices (Halal)"
+        ],
+        "score": "medium",
+        "reasoning": "The Rice Noodles w/ Beef & Vegetables brings some solid Asian-inspired comfort, and the Moroccan-spiced braised chicken sounds aromatic and flavorful. A well-rounded stop for meat lovers."
+      },
+      {
+        "name": "South Quad",
+        "highlights": [
+          "Herb Roasted Turkey Breast",
+          "Beef and Mushroom Blended Burger"
+        ],
+        "score": "medium",
+        "reasoning": "Herb Roasted Turkey Breast is a satisfying, classic protein done right \u2014 tender and savory. The Beef and Mushroom Blended Burger adds an umami-packed option for something more casual."
+      },
+      {
+        "name": "North Quad",
+        "highlights": [
+          "Thai Style Fried Rice with Shrimp"
+        ],
+        "score": "medium",
+        "reasoning": "The Thai Style Fried Rice with Shrimp is the highlight here \u2014 fresh shrimp tossed in fragrant fried rice is a fun, flavorful pick that rises above the rest of the menu."
+      },
+      {
+        "name": "Bursley",
+        "highlights": [
+          "Beef and Mushroom Blended Burger"
+        ],
+        "score": "low",
+        "reasoning": "The Beef and Mushroom Blended Burger is a tasty, umami-rich option, but not their strongest night overall for standout meat dishes."
+      },
+      {
+        "name": "Markley",
+        "highlights": [
+          "Halal Taco Beef",
+          "Key Lime Pie"
+        ],
+        "score": "low",
+        "reasoning": "The Taco Beef could make for a fun, bold-flavored plate, but today's menu leans lighter on exciting protein options. Save room for that Key Lime Pie though!"
+      },
+      {
+        "name": "East Quad",
+        "highlights": [
+          "Beef and Mushroom Blended Burger",
+          "Chocolate Chunk Cookies"
+        ],
+        "score": "low",
+        "reasoning": "Not their strongest night for meat \u2014 the Beef and Mushroom Blended Burger is a reliable pick if you're nearby, but there are better protein destinations tonight."
+      },
+      {
+        "name": "Wolverine Village",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today \u2014 catch them next time!"
+      }
+    ],
+    "summary": "Twigs at Oxford wins the night with that gorgeous Parmesan Crusted Whitefish \u2014 the most exciting protein on any menu today! \ud83d\udc1f"
+  },
+  "menus": [
+    {
+      "name": "Bursley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/bursley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Michigan Bean Soup"
+          ],
+          "Signature Maize": [
+            "Frankenmuth Style Fried Chicken"
+          ],
+          "Signature Blue": [
+            "Pub Fried Tofu"
+          ],
+          "24 Carrots": [
+            "Spicy Black Beans"
+          ],
+          "Halal": [
+            "Halal Chipotle Roast Chicken"
+          ],
+          "Pizziti": [
+            "Garlic Cheese Bread"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Breads and Rolls": [
+            "Assorted Rolls"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Vegan Thumbprint Cookies w/ Coconut"
+          ]
+        }
+      }
+    },
+    {
+      "name": "East Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/east-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Vegetable Gumbo"
+          ],
+          "Signature Maize": [
+            "UNIT CHOICE MEAL"
+          ],
+          "24 Carrots": [
+            "Dijon & Balsamic Grilled Tempeh"
+          ],
+          "Halal": [
+            "Grilled Chicken"
+          ],
+          "Pizziti": [
+            "UNIT CHOICE MEAL"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "Chocolate Chunk Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Markley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/markley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Black Bean Soup"
+          ],
+          "Signature Maize": [
+            "Spinach Artichoke Chicken Breast w/Bacon"
+          ],
+          "24 Carrots": [
+            "Spicy Kidney Beans"
+          ],
+          "Halal": [
+            "Taco Beef"
+          ],
+          "MBakery": [
+            "Key Lime Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Mosher-Jordan",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/mosher-jordan/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Vegetable Gumbo"
+          ],
+          "Signature Maize": [
+            "Grilled Pork Chops"
+          ],
+          "World Palate Maize": [
+            "Rice Noodles w/ Beef & Vegetables"
+          ],
+          "24 Carrots": [
+            "Dijon & Balsamic Grilled Tempeh"
+          ],
+          "Halal": [
+            "Braised Chicken w/ Moroccan Spices"
+          ],
+          "Pizziti": [
+            "Pepperoni Pizza"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "Kings Hawaiian Grill": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "Key Lime Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "North Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/north-quad/",
+      "meals": {
+        "Dinner": {
+          "Signature Blue": [
+            "Mild Salsa"
+          ],
+          "24 Carrots": [
+            "Edamame"
+          ],
+          "Halal": [
+            "Taco Beef"
+          ],
+          "Vita": [
+            "Cavatappi with Marinara Sauce"
+          ],
+          "Pizziti": [
+            "Pepperoni Flatbread Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Thai Style Fried Rice with Shrimp"
+          ],
+          "MBakery": [
+            "Key Lime Pie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "South Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Vegetable Gumbo"
+          ],
+          "Signature Maize": [
+            "Herb Roasted Turkey Breast"
+          ],
+          "24 Carrots": [
+            "Dijon & Balsamic Grilled Tempeh"
+          ],
+          "Halal": [
+            "Moroccan Chicken"
+          ],
+          "Vita": [
+            "Gemelli Pasta"
+          ],
+          "Sabroso": [
+            "No Service at this Time"
+          ],
+          "Pizziti": [
+            "Supreme Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Two Oceans": [
+            "Pork Lo Mein"
+          ],
+          "Kosher": [
+            "Navy Bean Soup"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Chocolate Chunk Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Twigs at Oxford",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/twigs-at-oxford/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Hearty Beef Soup"
+          ],
+          "Signature Maize": [
+            "Chicken Tinga"
+          ],
+          "Halal": [
+            "Parmesan Crusted Whitefish"
+          ],
+          "Wild Fire Maize": [
+            "Black Bean Burger w/ White Bun"
+          ],
+          "MBakery": [
+            "Vegan Thumbprint Cookies w/ Coconut"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Wolverine Village",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/wolverine-village-dining-hall/",
+      "meals": {}
+    }
+  ]
+}
