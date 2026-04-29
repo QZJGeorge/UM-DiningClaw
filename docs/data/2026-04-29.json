@@ -1,0 +1,230 @@
+{
+  "date": "2026-04-29",
+  "recommendation": {
+    "recommendation": "Head to **Mosher-Jordan** tonight if you're after quality meat! The star of the show is the **Mongolian Beef with Fried Noodles** \u2014 savory, saucy, and loaded with umami flavor. Pair that with the **Vernor's Pound Cake** for dessert and you've got a seriously solid dinner. Bursley is a close second with their **Lamb Gyro Meat** on the Halal station \u2014 tender, herby lamb is always a win. South Quad also brings the **Thai Style Fried Rice with Shrimp** and **Mongolian Beef** if you want options.",
+    "halls": [
+      {
+        "name": "Mosher-Jordan",
+        "highlights": [
+          "Mongolian Beef with Fried Noodles",
+          "Vernor's Pound Cake"
+        ],
+        "score": "high",
+        "reasoning": "Mongolian Beef with Fried Noodles is the meat highlight of the night \u2014 rich, bold flavors with satisfying noodles. Top it off with a Vernor's Pound Cake for a uniquely Michigan dessert experience."
+      },
+      {
+        "name": "Bursley",
+        "highlights": [
+          "Lamb Gyro Meat",
+          "Beef and Mushroom Blended Burger"
+        ],
+        "score": "high",
+        "reasoning": "Halal Lamb Gyro Meat is a standout \u2014 seasoned, savory lamb is a premium protein pick you don't see every day. The Beef and Mushroom Blended Burger on Wild Fire Maize adds another hearty meat option worth trying."
+      },
+      {
+        "name": "South Quad",
+        "highlights": [
+          "Thai Style Fried Rice with Shrimp",
+          "Mongolian Beef with Fried Noodles"
+        ],
+        "score": "medium",
+        "reasoning": "Two solid meat options here \u2014 fresh shrimp in Thai-style fried rice and bold Mongolian beef. Great if you want variety, but the same Mongolian Beef shines a bit brighter at Mosher-Jordan's dedicated station."
+      },
+      {
+        "name": "East Quad",
+        "highlights": [
+          "Miso Marinated Tofu w/ Kimchi Salad"
+        ],
+        "score": "low",
+        "reasoning": "Not their strongest night for meat lovers \u2014 much of the menu is a unit choice situation. The Miso Tofu with Kimchi Salad is a flavorful veggie highlight though!"
+      },
+      {
+        "name": "Markley",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today."
+      },
+      {
+        "name": "North Quad",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today."
+      },
+      {
+        "name": "Twigs at Oxford",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today."
+      },
+      {
+        "name": "Wolverine Village",
+        "highlights": [],
+        "score": "none",
+        "reasoning": "No dinner service today."
+      }
+    ],
+    "summary": "Mosher-Jordan's Mongolian Beef with Fried Noodles takes the crown tonight \u2014 or swing by Bursley for that irresistible Lamb Gyro Meat! \ud83e\udd69"
+  },
+  "menus": [
+    {
+      "name": "Bursley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/bursley/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Loaded Baked Potato Soup"
+          ],
+          "Signature Maize": [
+            "Piri-Piri Chicken"
+          ],
+          "24 Carrots": [
+            "Southwest Veggie and Black Bean Burrito"
+          ],
+          "Halal": [
+            "Lamb Gyro Meat"
+          ],
+          "Pizziti": [
+            "Garlic Cheese Bread"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Key Lime Cookie"
+          ]
+        }
+      }
+    },
+    {
+      "name": "East Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/east-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "UNIT CHOICE MEAL"
+          ],
+          "Signature Maize": [
+            "UNIT CHOICE MEAL"
+          ],
+          "24 Carrots": [
+            "Miso Marinated Tofu w/ Kimchi Salad"
+          ],
+          "Halal": [
+            "Baked Halal Chicken"
+          ],
+          "Pizziti": [
+            "Cheese Pizza"
+          ],
+          "Wild Fire Maize": [
+            "UNIT CHOICE MEAL"
+          ],
+          "MBakery": [
+            "Sugar Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Markley",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/markley/",
+      "meals": {}
+    },
+    {
+      "name": "Mosher-Jordan",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/mosher-jordan/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Cream of Tomato Soup"
+          ],
+          "Signature Maize": [
+            "Fried Chicken Wings"
+          ],
+          "World Palate Maize": [
+            "Mongolian Beef with Fried Noodles"
+          ],
+          "24 Carrots": [
+            "Filipino Vegetable Pancit"
+          ],
+          "Halal": [
+            "Baked Halal Chicken"
+          ],
+          "Pizziti": [
+            "Pepperoni Pizza"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "Kings Hawaiian Grill": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "MBakery": [
+            "Vernor's Pound Cake"
+          ]
+        }
+      }
+    },
+    {
+      "name": "North Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/north-quad/",
+      "meals": {}
+    },
+    {
+      "name": "South Quad",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/south-quad/",
+      "meals": {
+        "Dinner": {
+          "Soup": [
+            "Chicken Vegetable Soup"
+          ],
+          "Signature Maize": [
+            "Thai Style Fried Rice with Shrimp"
+          ],
+          "24 Carrots": [
+            "Filipino Vegetable Pancit"
+          ],
+          "Halal": [
+            "Baked Halal Chicken"
+          ],
+          "Vita": [
+            "Bowtie Pasta"
+          ],
+          "Sabroso": [
+            "No Service at this Time"
+          ],
+          "Pizziti": [
+            "Pepperoni Pizza"
+          ],
+          "Wild Fire Maize": [
+            "Beef and Mushroom Blended Burger"
+          ],
+          "Two Oceans": [
+            "Mongolian Beef with Fried Noodles"
+          ],
+          "Kosher": [
+            "Vegetable Gumbo"
+          ],
+          "Deli": [
+            "Sandwiches Made to Order"
+          ],
+          "MBakery": [
+            "Chocolate Chunk Cookies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Twigs at Oxford",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/twigs-at-oxford/",
+      "meals": {}
+    },
+    {
+      "name": "Wolverine Village",
+      "url": "https://dining.umich.edu/menus-locations/dining-halls/wolverine-village-dining-hall/",
+      "meals": {}
+    }
+  ]
+}
